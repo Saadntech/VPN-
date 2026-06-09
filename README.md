@@ -4,7 +4,8 @@
 
 A production-ready AWS Site-to-Site VPN architecture that securely connects an on-premises corporate network to an AWS VPC using dual IPSec tunnels across two Availability Zones.
 
-![AWS Site-to-Site VPN Architecture](/home/lem/Pictures/architect.png)
+![AWS Site-to-Site VPN Architecture<img width="1344" height="896" alt="architect" src="https://github.com/user-attachments/assets/3b4be993-cfb1-46a7-aaa3-186fef28a658" />
+)
 
 ---
 
